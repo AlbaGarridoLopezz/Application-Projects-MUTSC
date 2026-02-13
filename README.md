@@ -16,8 +16,8 @@ The `Datasets/` folder contains the raw data used for the practical exercises:
 
 The `Notebooks/` folder contains step-by-step implementations using the `lifelines` library in Python. You can access them directly here:
 
-* **[Brain Cancer Analysis](https://www.google.com/search?q=https://github.com/AlbaGarridoLopezz/Application-Projects-MUTSC/blob/main/Notebooks/BrainCancer.ipynb)**
-* **[Publication Bias Analysis](https://www.google.com/search?q=https://github.com/AlbaGarridoLopezz/Application-Projects-MUTSC/blob/main/Notebooks/Publication.ipynb)**
+* **[Brain Cancer Analysis](https://github.com/AlbaGarridoLopezz/Application-Projects-MUTSC/blob/main/Notebooks/BrainCancer.ipynb)**
+* **[Publication Bias Analysis](https://github.com/AlbaGarridoLopezz/Application-Projects-MUTSC/blob/main/Notebooks/Publication.ipynb)**
 
 ## Execution in Google Colab
 
