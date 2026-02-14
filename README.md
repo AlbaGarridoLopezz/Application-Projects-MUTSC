@@ -1,7 +1,7 @@
 # Application-Projects-MUTSC
 
 
-Material used for teaching about **Application Projects (APPR)** in the MUTSC program. This repository focuses on the core concepts of **Survival Analysis** and handling **Censoring Data**.
+Material used for teaching about **Application Projects (APPR)** in MUTSC (ETSIT-UPM). This repository focuses on the core concepts of **Survival Analysis** and handling **Censoring Data**.
 
 ## Repository Structure
 
