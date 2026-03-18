@@ -1,6 +1,6 @@
 # Application-Projects-MUTSC
 
-Material used for teaching about **Application Projects (APPR)** in MUTSC (ETSIT-UPM).
+Material used for teaching about **Application Projects (APPR)** in the Master’s Degree in Signal Theory and Communications (MUTSC) at ETSIT-UPM (Escuela Técnica Superior de Ingenieros de Telecomunicación, Universidad Politécnica de Madrid).
 
 ## Contributors & Contact
 
@@ -18,6 +18,21 @@ The `Datasets/` folder contains the raw data used for the practical exercises:
 * `BrainCancer.csv`: Survival times for patients with primary brain tumors.
 * `Publication.csv`: Data investigating publication bias and the time-to-publication for clinical trials.
 
+### Exercises
+
+The `Exercises/` folder contains a notebook with practical applications and questions:
+
+* **[Exercises Survival Analysis](https://github.com/AlbaGarridoLopezz/Application-Projects-MUTSC/blob/main/Exercises/Exercises_Survival_Analysis.ipynb)**
+
+### Material
+
+The `Material/` folder contains the lecture slides used throughout the course:
+
+* **[Application Projects](https://github.com/AlbaGarridoLopezz/Application-Projects-MUTSC/blob/main/Material/Application_Projects.pdf)**: Real-world applications
+* **[Glossary](https://github.com/AlbaGarridoLopezz/Application-Projects-MUTSC/blob/main/Material/Glossary.pdf)**: Glossary of key concepts used in survival analysis
+* **[Seminar Project](https://github.com/AlbaGarridoLopezz/Application-Projects-MUTSC/blob/main/Material/Seminar_Project.pdf)**: Explanation of the proposed project
+* **[Survival Analysis](https://github.com/AlbaGarridoLopezz/Application-Projects-MUTSC/blob/main/Material/Survival_Analysis.pdf)**: Theoretical foundations of survival analysis
+  
 ### Notebooks
 
 The `Notebooks/` folder contains step-by-step implementations using the `lifelines` library in Python. You can access them directly here:
