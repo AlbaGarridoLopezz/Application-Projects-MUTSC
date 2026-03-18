@@ -1,9 +1,17 @@
 # Application-Projects-MUTSC
 
+Material used for teaching about **Application Projects (APPR)** in MUTSC (ETSIT-UPM).
 
-Material used for teaching about **Application Projects (APPR)** in MUTSC (ETSIT-UPM). This repository focuses on the core concepts of **Survival Analysis** and handling **Censoring Data**.
+## Contributors & Contact
+
+**Contributors:**
+- Patricia A. Apellániz (patricia.alonsod@upm.es)
+- Alba Garrido (alba.garrido.lopez@upm.es)
+
+For questions, suggestions, or collaborations, please reach out via email.
 
 ## Repository Structure
+This repository focuses on the core concepts of **Survival Analysis** and handling **Censoring Data**.
 
 ### Datasets
 
